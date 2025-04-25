@@ -68,3 +68,7 @@ python conversor.py
 
 - O script considera apenas a primeira aba de cada arquivo .xlsx.
 - As conversões preservam apenas os valores das células, sem formatações.
+
+---
+
+Feito com 💙 por [YusukyOficial](https://github.com/YusukyOficial)
