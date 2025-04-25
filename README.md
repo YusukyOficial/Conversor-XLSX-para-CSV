@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Conversor XLSX para CSV" width="300"/>
+</p>
+
+
 # 🧾 Conversor XLSX para CSV em Python
 
 Este projeto é um conversor simples e eficiente de arquivos `.xlsx` para `.csv`, desenvolvido em Python. Ideal para automatizar a conversão de relatórios e planilhas, especialmente quando há múltiplos arquivos envolvidos.
