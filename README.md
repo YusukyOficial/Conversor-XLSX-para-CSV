@@ -71,4 +71,4 @@ python conversor.py
 
 ---
 
-Feito com 💙 por [YusukyOficial](https://github.com/YusukyOficial)
+Desenvolvido com 💚 por [YusukyOficial](https://github.com/YusukyOficial)
